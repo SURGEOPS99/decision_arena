@@ -1,7 +1,3 @@
-Here is a complete, production-ready `README.md` for the **ARIA v0.1 / `decision_arena**` project. You can copy and paste this directly into your `README.md` file.
-
----
-
 # ARIA v0.1: Autonomous Risk-Aware Reinforcement Learning Agent & Benchmark
 
 **ARIA v0.1** (*Autonomous Risk-Aware Interactive Agent*) is a modular multi-agent reinforcement learning (MARL) environment, offline RL pipeline, and execution safety framework. Designed for trading under volatile, non-stationary market dynamics, ARIA combines a PettingZoo Dec-POMDP market simulator with deterministic execution guardrails to prevent catastrophic portfolio drawdowns.
